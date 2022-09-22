@@ -14,3 +14,8 @@ This repository stores my learning materials about Java.
     - If... Else if... Else Conditionals
     - Do... While Loops
     - Switch Conditionals
+3. Arrays:
+    - Introduction to Arrays
+    - Values and Contexts in Arrays
+    - Multi-Dimensional Arrays
+    - For Loops with Arrays
