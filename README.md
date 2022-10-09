@@ -19,3 +19,12 @@ This repository stores my learning materials about Java.
     - Values and Contexts in Arrays
     - Multi-Dimensional Arrays
     - For Loops with Arrays
+4. Classes and Objects
+    - Introduction to Classes
+    - Returning Values and Input Parameters
+    - Getter and Setter Methods
+    - "This"
+    - Constructor Methods
+5. Variable Characteristics
+    - Static Variables and Methods
+    - Final Variables
