@@ -28,3 +28,9 @@ This repository stores my learning materials about Java.
 5. Variable Characteristics
     - Static Variables and Methods
     - Final Variables
+6. Advance String Operations
+    - StringBuilder() and StringBuffer()
+    - Format Strings
+7. Native Object Methods:
+    - toString()
+    
