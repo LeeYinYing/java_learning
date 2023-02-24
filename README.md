@@ -15,22 +15,33 @@ This repository stores my learning materials about Java.
     - Do... While Loops
     - Switch Conditionals
 3. Arrays:
-    - Introduction to Arrays
-    - Values and Contexts in Arrays
-    - Multi-Dimensional Arrays
-    - For Loops with Arrays
-4. Classes and Objects
-    - Introduction to Classes
-    - Returning Values and Input Parameters
-    - Getter and Setter Methods
+    - Introduction to arrays
+    - Values and contexts in arrays
+    - Multi-dimensional arrays
+    - For loops with arrays
+4. Classes and Objects I
+    - Introduction to classes
+    - Returning values and input parameters
     - "This"
     - Constructor Methods
-5. Variable Characteristics
-    - Static Variables and Methods
-    - Final Variables
+    - "ToString" Method
+5. Classes and Objects II
+    - Inheritance
+    - Static and Final Contexts
 6. Advance String Operations
     - StringBuilder() and StringBuffer()
     - Format Strings
-7. Native Object Methods:
-    - toString()
+7. Encapsulation:
+    - Introduction to encapsulation concept
+    - Getter and setter methods
+    - "public", "private", and "protected" keywords
+8. Packages
+    - Introduction to packages
+9. Interfaces
+    - Introduction to interfaces
+10. Casting
+    - Introduction to casting
+    - Upcasting and polymorphism
+    - Downcasting
+    - Numerical variable casting
     
