@@ -44,4 +44,8 @@ This repository stores my learning materials about Java.
     - Upcasting and polymorphism
     - Downcasting
     - Numerical variable casting
+11. Generics
+    - Introduction to generics
+    - Passing Generics
+    - Wildcards
     
