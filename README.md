@@ -27,6 +27,7 @@ This repository stores my learning materials about Java.
     - "ToString" Method
 5. Classes and Objects II
     - Inheritance
+    - Anonymous classes
     - Static and Final Contexts
 6. Advance String Operations
     - StringBuilder() and StringBuffer()
@@ -39,6 +40,7 @@ This repository stores my learning materials about Java.
     - Introduction to packages
 9. Interfaces
     - Introduction to interfaces
+    - Interfaces with anonymous classes
 10. Casting
     - Introduction to casting
     - Upcasting and polymorphism
