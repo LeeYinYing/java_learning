@@ -51,4 +51,14 @@ This repository stores my learning materials about Java.
     - Introduction to generics
     - Passing Generics
     - Wildcards
+12. Exceptions
+    - "Throw" decorator
+    - Try-Catch blocks
+    - Multiple exceptions
+    - Runtime exceptions
+13. IO Operations
+    - Reading files using Scanner()
+    - Reading files use FileReader()
+    - Reading files with "try-with-resources" implementations
+    - Writing and creating files
     
