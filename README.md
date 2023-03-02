@@ -25,6 +25,7 @@ This repository stores my learning materials about Java.
     - "This"
     - Constructor Methods
     - "ToString" Method
+    - "Equals" Method
 5. Classes and Objects II
     - Inheritance
     - Anonymous classes
