@@ -29,7 +29,9 @@ This repository stores my learning materials about Java.
 5. Classes and Objects II
     - Inheritance
     - Anonymous classes
+    - Abstract classes
     - Static and Final Contexts
+    - Inner classes
 6. Advance String Operations
     - StringBuilder() and StringBuffer()
     - Format Strings
